@@ -2,8 +2,6 @@
 
 # Olá Eu Sou Arthur👋! Estudante e programador em PHP.
 
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Prates&layout=compact)
 </div>
 
 <div  align="center"> 
