@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá Eu Sou Arthur👋! Estudante e programador em PHP.
+# Olá, Eu Sou Arthur👋! Estudante e programador em PHP.
 
 </div>
 
